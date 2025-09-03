@@ -82,26 +82,8 @@
 
 ---  
 
-## 🛣️ Timeline  
-
-```mermaid
-timeline
-    title Ahmed Hafez – Projects & Achievements
-    2021 : IEEE YESIST12 – Top 10 (India) 🏅
-    2022 : Port-Said Engineering Day – 2nd Place 🥈
-         : ODC Hackathon – 1st Place 🥇
-         : Nile University Junior Researcher Competition 🎖️
-         : ITC-Egypt, Air Defense College 🎖️
-    2023 : IEEE OPET Competition – Finalist 🎖️
-         : IC-SIT Smart Innovation Technologies 🎖️
-    2024 : Graduated Mansoura University 🎓
-         : Wellness Fitness App 📱
-         : VPN App (Flutter + Kotlin) 📱
-         : Story Sharing Platform 🌐
-    2025 : Money Tracker App 📱
-         : Starting Freelance Career 🚀
 <div align="center">
 
-✨ “Code is like humor. When you have to explain it, it’s bad.” ✨
+✨ *“Code is like humor. When you have to explain it, it’s bad.”* ✨  
 
-</div> ```
+</div>
