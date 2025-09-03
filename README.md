@@ -46,8 +46,8 @@
 ## 📊 GitHub Insights   
  
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedhafez47&show_icons=true&theme=radical" height="180" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhafez47&layout=compact&theme=radical" height="180" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedhafez32&show_icons=true&theme=radical" height="180" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhafez32&layout=compact&theme=radical" height="180" /> 
 </p> 
  
 --- 
