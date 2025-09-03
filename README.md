@@ -77,7 +77,7 @@
 ## 🐍 Contribution Snake  
 
 <p align="center"> 
-  <img src="https://github.com/ahmedhafez47/ahmedhafez47/blob/output/github-contribution-grid-snake-dark.svg"/> 
+  ![Snake animation](https://raw.githubusercontent.com/ahmedhafez47/ahmedhafez47/output/github-contribution-grid-snake.svg) 
 </p>  
 
 ---  
