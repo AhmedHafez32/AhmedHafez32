@@ -76,9 +76,15 @@
 
 ## 🐍 Contribution Snake  
 
-<p align="center"> 
-  ![Snake animation](https://raw.githubusercontent.com/ahmedhafez47/ahmedhafez47/output/github-contribution-grid-snake.svg) 
-</p>  
+<p align="center">
+  <!-- Light mode -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmedHafez32/AhmedHafez32/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhmedHafez32/AhmedHafez32/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/AhmedHafez32/AhmedHafez32/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
 
 ---  
 ## 🛣️ Timeline  
