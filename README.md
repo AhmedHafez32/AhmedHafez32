@@ -100,3 +100,8 @@ timeline
          : Story Sharing Platform 🌐
     2025 : Money Tracker App 📱
          : Starting Freelance Career 🚀
+<div align="center">
+
+✨ “Code is like humor. When you have to explain it, it’s bad.” ✨
+
+</div> ```
