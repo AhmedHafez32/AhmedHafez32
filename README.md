@@ -19,16 +19,30 @@
 --- 
  
 ## 🚀 Projects & Work   
- 
+
 📱 **Mobile Apps**   
 - 🟢 Wellness Fitness App → Daily workouts, BMI tracker, API caching.   
-- 🔵 VPN App → Location changing with Ads monetization.   
-- 🟣 Money Tracker → Track expenses & generate reports.   
-- 🟡 Story Sharing Platform → Publish & update stories with admin dashboard.   
+- 🔵   
+
+🤖 **Robotics & Embedded Systems**   
+- 🎓 **Graduation Project**: *Over-the-air updates for Advanced Driver Assistance Systems (ADAS)*  
+  Based on **Embedded Systems, IoT, and AI techniques** to enable secure, reliable remote software updates.  
+
+- 🚗 **Bluetooth-based Smart Phone Controlled Robot Car** *(Atmega32, C)*  
+  Controlling and moving the car using a Bluetooth module.  
+
+- 💻 **Virtual Terminal with USART** *(Atmega32, C)*  
+  Communication between ATmega32 microcontroller and a laptop.  
+
+- 🏥 **Multi-task Biomedical Robotic System** *(Atmega32, C)*  
+  - Measured patient’s vital processes: heartbeat, blood-oxygen ratio, and temperature.  
+  - Used **MLX90614** temperature sensor.  
+  - Used **MAX30102** to measure blood oxygen.  
+  - Integrated **ESP32CAM** for face recognition and patient monitoring.  
+
+- 🤖 **Smart Robot Project** → Led hardware + software integration.   
+- 🌐 **IoT Experiments** → Sensors, automation & embedded systems.   
  
-🤖 **Robotics & IoT**   
-- Smart Robot Project → Led hardware + software integration.   
-- IoT Experiments → Sensors, automation & embedded systems.   
  
 --- 
  
@@ -54,7 +68,12 @@
  
 ## 🎓 Education   
  
-🎓 **BEng, Computer Engineering** – Mansoura University (2024)   
+- **Bachelor of Engineering (BEng), Computer Engineering**  
+  Mansoura University, Egypt  
+  *2019 – 2024*  
+  - Grade: **A− (Very Good with Honor Degree)**  
+  - Ranked: **9th in the cohort**  
+  - Total Average: **81.98%**
  
 ---  
 
