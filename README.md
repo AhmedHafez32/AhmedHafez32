@@ -72,4 +72,10 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/ahmedhafez47/ahmedhafez47/blob/output/github-contribution-grid-snake-dark.svg)
+
+---
+
 ⭐️ From [Ahmed Hafez](https://github.com/ahmedhafez47)
