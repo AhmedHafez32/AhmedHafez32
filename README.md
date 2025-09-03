@@ -13,7 +13,7 @@
 ## ⚡ Skills & Tools   
  
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=dart,kotlin,flutter,androidstudio,idea,firebase,sqlite,postgres,git,figma,c,cpp,python" /> 
+  <img src="https://skillicons.dev/icons?i=dart,kotlin,flutter,androidstudio,firebase,sqlite,git,figma,c,cpp" /> 
 </p> 
  
 --- 
