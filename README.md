@@ -28,10 +28,10 @@
 ## 🚀 Featured Projects
 
 ### 📱 Mobile Apps
-- **[Wellness Fitness App](#)** – Flutter fitness app with daily workouts, caching API data, BMI tracking & progress.  
-- **[VPN App](#)** – Flutter + Kotlin app to change location with Ads monetization.  
-- **[Money Tracker](#)** – Simple expense tracking app with statistics & budget planning.  
-- **[Story Sharing Platform](#)** – Flutter + Dart Frog website for publishing fictional & general stories with drafts, “to be continued” updates, and admin dashboard.  
+- **Wellness Fitness App** – Flutter fitness app with daily workouts, caching API data, BMI tracking & progress.  
+- **VPN App** – Flutter + Kotlin app to change location with Ads monetization.  
+- **Money Tracker** – Simple expense tracking app with statistics & budget planning.  
+- **Story Sharing Platform** – Flutter + Dart Frog website for publishing fictional & general stories with drafts, “to be continued” updates, and admin dashboard.  
 
 ### 🤖 Embedded Systems & Robotics
 - **Smart Robot Project** – Led both hardware & software development for a robotics competition.  
@@ -52,9 +52,9 @@
 
 ## 📊 GitHub Stats
 
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedhafez47&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhafez47&layout=compact&theme=tokyonight)
 
 ---
 
@@ -66,10 +66,10 @@
 
 ## 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)  
-[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedhafez47?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmedhafez4563@gmail.com)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/201556417677)  
 
 ---
 
-⭐️ From [Ahmed Hafez](https://github.com/YOUR_USERNAME)
+⭐️ From [Ahmed Hafez](https://github.com/ahmedhafez47)
