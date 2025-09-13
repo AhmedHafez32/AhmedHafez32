@@ -71,7 +71,7 @@
 - **Bachelor of Engineering (BEng), Computer Engineering**  
   Mansoura University, Egypt  
   *2019 – 2024*  
-  - Grade: **A− (Very Good with Honor Degree)**  
+  - Grade: **B+ (Very Good with Honor Degree)**  
   - Ranked: **9th in the cohort**  
   - Total Average: **81.98%**
  
