@@ -22,7 +22,9 @@
 
 📱 **Mobile Apps**   
 - 🟢 Wellness Fitness App → Daily workouts, BMI tracker, API caching.   
-- 🔵   
+- 🔵 Quiz App → Multiple Categories, Difficulty Levels, Question Types.
+- 🟢 Meals App → Add Meal, Meal Details, Local Database.
+- 🔵 News App → Top Headlines, Search Functionality, Multi-language Support.
 
 🤖 **Robotics & Embedded Systems**   
 - 🎓 **Graduation Project**: *Over-the-air updates for Advanced Driver Assistance Systems (ADAS)*  
